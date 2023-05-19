@@ -15,7 +15,6 @@ yarn add react-face-detection-hook
 ## 💡 Usage
 
 ```sh
-import Webcam from 'react-webcam'
 import { 
   useFaceDetection,
   FaceDetectionResults,
