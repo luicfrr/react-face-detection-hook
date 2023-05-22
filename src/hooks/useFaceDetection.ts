@@ -39,7 +39,6 @@ function Index( {
    * @param {HTMLVideoElement} mediaSrc Current media source
    */
   const handleFaceDetection = useCallback( () => {
-    // Configura as opções da detecção facial
     faceDetection.setOptions( {
       ...options
     } )
@@ -76,7 +75,7 @@ function Index( {
   useEffect( () => {
     cameraManager?.start()
 
-    // para a camera quando o componente desmontar
+    // stops camera detection when component unmounts
     return () => {
       cameraManager?.stop()
     }
