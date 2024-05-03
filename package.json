@@ -11,12 +11,12 @@
   "types": "build/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nonam4/react-face-detection-hook.git"
+    "url": "git+https://github.com/luicfrr/react-face-detection-hook.git"
   },
   "bugs": {
-    "url": "https://github.com/nonam4/react-face-detection-hook/issues"
+    "url": "https://github.com/luicfrr/react-face-detection-hook/issues"
   },
-  "homepage": "https://github.com/nonam4/react-face-detection-hook",
+  "homepage": "https://github.com/luicfrr/react-face-detection-hook",
   "scripts": {
     "lint": "eslint --quiet --fix --ext .js,.ts,.tsx,.jsx .",
     "postinstall": "patch-package",
