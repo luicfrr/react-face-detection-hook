@@ -73,4 +73,4 @@ function MyComponent() {
 
 ## 📚 Author
 
-- **Luiz Carlos Ferreira** - [nonam4](https://github.com/nonam4)
+- **Luiz Carlos Ferreira** - [luicfrr](https://github.com/luicfrr)
